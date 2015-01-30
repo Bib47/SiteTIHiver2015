@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Site.Master" />
+    <None Include="Properties\PublishProfiles\Site TI.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
